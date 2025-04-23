@@ -92686,7 +92686,7 @@ var $async$z6=A.V(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:p=4
 n="jaipur"
 s=7
-return A.a8(A.aZO(A.it("http://api.openweathermap.org/data/2.5/forecast?q="+A.n(n)+"&APPID=a569f17d2160991ed935b4bd2814db59")),$async$z6)
+return A.a8(A.aZO(A.it("https://api.openweathermap.org/data/2.5/forecast?q="+A.n(n)+"&APPID=a569f17d2160991ed935b4bd2814db59")),$async$z6)
 case 7:m=b
 j=m
 l=B.db.Gz(0,A.aZA(J.b1(A.aXi(j.e).c.a,"charset")).hm(0,j.w),null)
